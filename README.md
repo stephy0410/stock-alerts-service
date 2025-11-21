@@ -1,6 +1,4 @@
 
-
-````markdown
 # 📈 Stock Market Alerts & Portfolio Intelligence Microservice
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square)
@@ -87,7 +85,7 @@ The system follows a layered microservices architecture to ensure separation of 
 
 -----
 
-## 🐳 Setup & Installation
+##  Setup & Installation
 
 ### 1\. Run MySQL with Docker
 
@@ -223,9 +221,9 @@ This project was built to bridge the gap between university theory and industry 
 
   * Computer Systems Engineering Student @ ITESO
   * [GitHub Profile](https://github.com/stephy0410)
-  * [LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/stephanie-borrego-arroyo)
+  * [LinkedIn Profile](https://www.linkedin.com/in/stephanie-borrego-arroyo/)
 
 <!-- end list -->
 
 ```
-```
+
