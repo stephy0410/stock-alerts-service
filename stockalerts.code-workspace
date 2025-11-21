@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "stockalerts",
+			"path": "../../../Downloads/stockalerts"
+		},
+		{
+			"name": "stock-alerts-service",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
